@@ -35,6 +35,9 @@ int main(){
 				}
 			}
 		}
+		for(int cnt = 0; cnt < t; cnt++){
+			printf("Case %d: %d", cnt, r[cnt]);
+		}
 	}
 	
 }
